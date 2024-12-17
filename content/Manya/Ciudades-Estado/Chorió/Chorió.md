@@ -1,0 +1,1 @@
+Chorió, la capital y ciudad-estado mas importante de [[Manya]]. Cuenta con alrededor de 30,000 personas, convirtiéndola en una de las ciudades más grandes de todo [[Duthram]].
