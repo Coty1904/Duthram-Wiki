@@ -7,7 +7,7 @@ La geografía de la región es muy variada, en la misma se encuentran varias cor
 
 ### Mapa de la Región
 
-En el siguiente mapa muestra la [[Geografía General|geográfia]] y las [[#NACIONES |naciones]] que habitan la región.
+En el siguiente mapa muestra la [[content/Wiki/Geografía General|geográfia]] y las [[#NACIONES |naciones]] que habitan la región.
 
 ```leaflet  
 id: Mapa_Duthram  
