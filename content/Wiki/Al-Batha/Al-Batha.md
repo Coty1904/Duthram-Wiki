@@ -25,7 +25,7 @@ A continuación se muestra un mapa de Al-Batha mostrando:
 
 ## Gobierno
 
-El gobierno de Al-Batha, es una monarquía electa. Todos los nobles tienen la obligación de enviar a un representante de su familia dinástica, para votar por el siguiente monarca después del fallecimiento del actual rey.
+El gobierno de Al-Batha, es una monarquía electa. Todos los [[Alsulalat]] tienen la obligación de enviar a un representante de su familia dinástica, para votar por el siguiente monarca después del fallecimiento del actual rey.
 
 El nuevo rey, una vez electo, debe de beber la sangre de su antecesor significando un reinado prosperó y legitimo.
 
@@ -43,9 +43,9 @@ La biblioteca de [[Maktabó]] es fuente de la imaginación de muchos autores, se
 
 ## Historia
 
-La consolidación de Al-Batha, se remonta al año 563 D.F.I. (Después de la Fundación del Imperio), cuando el 15 de Eryndar, el primer rey [PLACEHOLDER], unifico todos los pueblos nómadas del [[Desierto de Al-Wiam]]. 
+La consolidación de Al-Batha, se remonta al año 563 D.F.I. (Después de la Fundación del Imperio), cuando el 15 de Eryndar, el primer [[Aleahil]], [[Haani Al-Wiam]], unifico todos los pueblos nómadas del [[Desierto de Al-Wiam]]. 
 
-El rey obtuvo una visión del mismo [[Ainsijam]], donde le dijo que si fundaba una ciudad en la cuenca del [[Rio Nahr]] la gente lo seguiría hacia una época de prosperidad. Fue entonces que bajo la luz de la bendición de [[Thalyss]], [PLACEHOLDER] fundó la ciudad de [[Siriso]].
+El rey obtuvo una visión del mismo [[Ainsijam]], donde le dijo que si fundaba una ciudad en la cuenca del [[Rio Nahr]] la gente lo seguiría hacia una época de prosperidad. Fue entonces que bajo la luz de la bendición de [[Thalyss]], [[Haani Al-Wiam]] fundó la ciudad de [[Siriso]].
 
 Debido a su posición geográfica alejada de los conflictos de la región, su habilidad comercial y su religión enfocada en el respeto y solidaridad, Al-Batha se convirtió en un reino donde aceptan a varias culturas refugiadas de la inestabilidad de la región.
 

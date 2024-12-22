@@ -27,4 +27,6 @@ Son varias las religiones que se practican en Duthram, algunas politeísta con u
 Las religiones más practicadas son:
 - [[Agonismo]]
 - [[Sijamismo]]
+- [[Ipmilat]]
+
 
