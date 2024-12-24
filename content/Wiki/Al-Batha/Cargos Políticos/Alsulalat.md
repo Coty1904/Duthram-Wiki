@@ -1,4 +1,4 @@
-Los Alsulalat son las diferentes Casas Nobles que gobiernan [[Al-Batha]]. Actualmente son 6 Casas principales.
+Los Alsulalat son las diferentes Casas Nobles que gobiernan [[Al-Batha]]. Actualmente son 5 Casas principales.
 
 # Casas Alsulalat
 
@@ -26,3 +26,18 @@ La Casa Maktaba es diferente a las demás casas debido a que los miembros no per
 
 El actual líder de la casa Maktaba es [[Abelus Galus]], un elfo que inspira confianza con todo aquel con el que dialoga. Aunque tiene un cierto aire de superioridad con otras personas le es leal a la Casa gobernante de turno siempre y cuando los dejen seguir investigando.
 
+## Casa Dini
+
+La Casa Dini, liderada por una humana, [[Aasima Dini]], la cual adapto la religión [[Sijamismo|sijanista]] con alguna de las enseñanzas de [[Haani Al-Wiam]]. Su devoción a [[Ainsijam]] es tan fuerte, que se dedicó a fundar templos en las principales [[Al-Batha#Ciudades Principales|principales ciudades]] de [[Al-Batha]] tras su fundación.
+
+El enfoque de expansión pasiva de la religión a manos de la casa Dini ah sido motivo de ciertas controversias, debido a que su ciertas sectas radicales del [[Sijamismo]], que buscan expandir la religión por acción y/o fuerza. 
+
+Actualmente el líder de la casa [[Ramalaan Dini]], un hombre polémico, al cual se le juzga por su inacción en momentos de decisiones rápidas y determinadas.
+
+## Casa Alteadin
+
+La Casa Alteadin, fundada por un clan de enanos exiliados de [[Althril]] tras el inicio de la dictadura de la [[Dinastía Darkhart]], en el año 575 D.F.I. Liderados por [[Batrir Onyxgut]], el clan Alteadin se dedico a lo único que sabían hacer bien, extracción de minerales como hierro, plata, oro y joyas de la [[Cordillera Jabalia]].
+
+Su ayuda y comprometimiento con la joven nación en su momento, les garantizó un lugar en las 5 casas del reino. Al ser enanos, el clan Alteadin es muy apasionado y dispuestos a ir más rápido a la acción. Son muy agresivos, pero con el paso del tiempo ellos poco a poco fueron adaptándose a las costumbres Bathianas.
+
+Su actual representante es [[Yulger Onyxgut]], un enano muy al cual no le tiembla el pulso a la hora de tomar decisiones muy duras.
