@@ -14,11 +14,11 @@ En el mundo de Eyedike cuenta con 2 satélites naturales objeto de la naturaleza
 
 ### Selvaris
 
-[[Selvaris]] es un cuerpo celeste anaranjado que tiene un ciclo de 30, completando 18 vueltas alrededor del planeta en un año.
+Selvaris es un cuerpo celeste anaranjado que tiene un ciclo de 30, completando 18 vueltas alrededor del planeta en un año. Es el satélite más grande de los 2 en el cielo nocturbo.
 
 ### Thalyss
 
-[[Thalyss]] es un cuerpo celeste azul, el cual cuenta con un ciclo de 15 días, completando 36 vueltas alrededor del planeta en un año.
+Thalyss es un cuerpo celeste azul, el cual cuenta con un ciclo de 15 días, completando 36 vueltas alrededor del planeta en un año. A comparación de Selvaris, Thalyss se ve más pequeña en el cielo nocturno.
 
 ## Calendario
 

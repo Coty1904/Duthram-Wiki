@@ -13,7 +13,7 @@ Al-Batha cuenta con muchas ciudades, entre las principales podemos encontrar:
 4. [[Mukhbiz]], ciudad enfocada en convertir los granos de trigo de [[Balda]] en pan y cerveza.
 5. [[Shamal]], ciudad más poblada al norte de la [[Cordillera Jabalia]].
 
-Hay varias [[Ciudades de Al-batha|ciudades]] más, pero estas son las que tienen mayor relevancia.
+Hay varias [[Ciudades de Al-Batha|ciudades]] más, pero estas son las que tienen mayor relevancia.
 
 ## Mapa
 
@@ -43,9 +43,10 @@ La biblioteca de [[Maktabó]] es fuente de la imaginación de muchos autores, se
 
 ## Historia
 
-La consolidación de Al-Batha, se remonta al año 563 D.F.I. (Después de la Fundación del Imperio), cuando el 15 de Eryndar, el primer [[Aleahil]], [[Haani Al-Wiam]], unifico todos los pueblos nómadas del [[Desierto de Al-Wiam]]. 
+La consolidación de Al-Batha, se remonta al año 563 D.F.I. (Después de la Fundación del Imperio), cuando el 15 de Eryndar, el primer [[Aleahil]], [[Haani Al-Wiam]], inicio la unificación de todos los pueblos nómadas del [[Desierto de Al-Wiam]]. 
 
-El rey obtuvo una visión del mismo [[Ainsijam]], donde le dijo que si fundaba una ciudad en la cuenca del [[Rio Nahr]] la gente lo seguiría hacia una época de prosperidad. Fue entonces que bajo la luz de la bendición de [[Thalyss]], [[Haani Al-Wiam]] fundó la ciudad de [[Siriso]].
+El [[Aleahil]] obtuvo una visión del mismo [[Ainsijam]], donde le dijo que si fundaba una ciudad en la cuenca del [[Rio Nahr]] la gente lo seguiría hacia una época de prosperidad. Fue entonces que bajo la bendición de la luz de de [[Eyedike#Thalyss|Thalyss]], [[Haani Al-Wiam]] fundó la ciudad de [[Siriso]].
 
 Debido a su posición geográfica alejada de los conflictos de la región, su habilidad comercial y su religión enfocada en el respeto y solidaridad, Al-Batha se convirtió en un reino donde aceptan a varias culturas refugiadas de la inestabilidad de la región.
 
+Para más información, se puede revisar la [[Historia de Al-Batha]] más a detalle.
