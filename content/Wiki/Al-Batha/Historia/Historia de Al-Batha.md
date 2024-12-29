@@ -1,32 +1,3 @@
-```insta-toc
----
-title:
-  name: Table of Contents
-  level: 1
-  center: false
-exclude: ""
-style:
-  listType: dash
-omit: []
-levels:
-  min: 1
-  max: 6
----
-
-# Table of Contents
-
-- Era Nómada (??? - 250 D.F.I)
-- Primeros Asentamientos (250 - 350 D.F.I.)
-    - Conflictos Bathanos (311 - 350 D.F.I.)
-- Invasiones Rijal Albahr (350 - 413 D.F.I.)
-- Época Ciudades-Estado (413 - 563 D.F.I.)
-- Fundación de Al-Batha (563 - 582 D.F.I.)
-    - Fundación de Siriso (15 de Eryndar 563 D.F.I.)
-    - Unificación del sur (563 - 575 D.F.I.)
-        - Éxodo Maktaba
-```
-
-
 # Era Nómada (??? - 250 D.F.I)
 
 Los registros de esta época son bastante confusos, no se sabe ni de donde ni cuando llegaron los primero pobladores a la isla de [[Al-Batha]]. Se sabe que muchos de ellos, llegaron en la parte norte de la isla, donde la naturaleza era muy hostil. No había muchas oportunidades para asentarse. La única excepción a la norma fue la ciudad [[Shamal]], la cual su posición costera le dio una ventaja para el comercio entre [[Duthram]] y el resto de [[Eyedike]].
@@ -77,8 +48,12 @@ Durante esta época, [[Al-Batha]] atrajo bastantes grupos en éxodos de todas pa
 
 ### Éxodo Maktaba
 
-Los Maktaba eran un grupo de eruditos exiliados de [[Aquila Imperii]] a inicios del Siglo V D.F.I., estos se dedicaron a recolectar y aprender todo tipo de conocimientos, enfocados principalmente en el conocimiento arcano. Llegaron a [[Siriso]] en el año 565 D.F.I. en busca de un lugar para establecerse, al oír acerca de de la biblioteca Maerifa [[Maktabó]] intentaron acceder a la ciudad, no obstante la ciudad no estaba dispuestos a aceptarlos dentro de sus murallas.
+Los Maktaba eran un grupo de eruditos de varias especies exiliados de [[Aquila Imperii]] a inicios del Siglo V D.F.I., estos se dedicaron a recolectar y aprender todo tipo de conocimientos, enfocados principalmente en el conocimiento arcano. Llegaron a [[Siriso]] en el año 565 D.F.I. en busca de un lugar para establecerse, al oír acerca de de la biblioteca Maerifa [[Maktabó]] intentaron acceder a la ciudad, no obstante la ciudad no estaba dispuestos a aceptarlos dentro de sus murallas.
 
 Recurrieron a pedir asilo y establecerse temporalmente en la ciudad mas cercana, [[Siriso]]. Siendo alojados con curiosidad y respeto por sus conocimientos, los Maktaba se hicieron cargo de la ciudad de Qarya luego del Asedio de la Biblioteca Maerifa en el año 568, renombrando la ciudad como se conoce actualmente, [[Maktabó]].
 
 Desde entonces los Maktaba se dedicaron a resguardar y enseñar magia en la Biblioteca Maerifa a ciertos individuos a los que consideren "aptos para aprender". También juraron lealtad al reino de [[Al-Batha]] ayudando a su población de manera general.
+
+### Exilio Alteadin
+
+Similar a los Maktaba, el clan Alteadin es un clan de enanos mineros exiliados de [[Althril]] después de que la [[Dinastía Darkhart]] tomara ilegítimamente el poder de [[Althril]].  Exiliándolos de sus montañas y minas.
