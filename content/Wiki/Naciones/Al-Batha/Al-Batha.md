@@ -2,7 +2,7 @@
 
 Al-Batha, el reino comerciante desértico. Enfocada en la cooperación entre las especies y pueblos, la ubicación geográfica y sus admirables conocimientos de navegación, permitieron a Al-Batha, desarrollarse pacíficamente. 
 
-Pese a que viven en un desierto (el [[Desierto de Al-Wiam]]), gracias a que la mitad de la isla esta dividida por la [[Cordillera Jabalia]], la zona sur de la isla cuenta con el gran [[Rio Nahr]]. El cual genera un ciclo de fertilización de la tierra, es una ruta acuática donde los comerciantes pueden ir desde el mar hacia el centro de la isla.
+Pese a que viven en un desierto (el [[Duthram#Duthram#Geografía#1. Desierto de Al-Wiam|desierto de Al-Wiam]]), gracias a que la mitad de la isla esta dividida por la [[Duthram#Duthram#1. Cordillera Jabalia|cordillera Jabalia]], la zona sur de la isla cuenta con el gran [[Duthram#1. Río Nahr|río Nahr]]. El cual genera un ciclo de fertilización de la tierra, es una ruta acuática donde los comerciantes pueden ir desde el mar hacia el centro de la isla.
 
 ## Ciudades Principales
 
@@ -11,7 +11,7 @@ Al-Batha cuenta con muchas ciudades, entre las principales podemos encontrar:
 2. [[Balda]], ciudad hermana a [[Maktabó]], enfocada en el cultivo de trigo para generar comida para el reino.
 3. [[Maktabó]], ciudad más cercana a la capital, es conocida por sus estudios académicos y su gran biblioteca.
 4. [[Mukhbiz]], ciudad enfocada en convertir los granos de trigo de [[Balda]] en pan y cerveza.
-5. [[Shamal]], ciudad más poblada al norte de la [[Cordillera Jabalia]].
+5. [[Shamal]], ciudad más poblada al norte de la [[Duthram#Duthram#1. Cordillera Jabalia|Cordillera Jabalia]].
 
 Hay varias [[Ciudades de Al-Batha|ciudades]] más, pero estas son las que tienen mayor relevancia.
 
@@ -43,9 +43,9 @@ La biblioteca de [[Maktabó]] es fuente de la imaginación de muchos autores, se
 
 ## Historia
 
-La consolidación de Al-Batha, se remonta al año 563 D.F.I. (Después de la Fundación del Imperio), cuando el 15 de Eryndar, el primer [[Aleahil]], [[Haani Al-Wiam]], inicio la unificación de todos los pueblos nómadas del [[Desierto de Al-Wiam]]. 
+La consolidación de Al-Batha, se remonta al año 563 D.F.I. (Después de la Fundación del Imperio), cuando el 15 de Eryndar, el primer [[Aleahil]], [[Haani Al-Wiam]], inicio la unificación de todos los pueblos nómadas del [[Duthram#Duthram#Geografía#1. Desierto de Al-Wiam|Desierto de Al-Wiam]]. 
 
-El [[Aleahil]] obtuvo una visión del mismo [[Ainsijam]], donde le dijo que si fundaba una ciudad en la cuenca del [[Rio Nahr]] la gente lo seguiría hacia una época de prosperidad. Fue entonces que bajo la bendición de la luz de de [[Eyedike#Thalyss|Thalyss]], [[Haani Al-Wiam]] fundó la ciudad de [[Siriso]].
+El [[Aleahil]] obtuvo una visión del mismo [[Ainsijam]], donde le dijo que si fundaba una ciudad en la cuenca del [[Duthram#1. Río Nahr|río Nahr]] la gente lo seguiría hacia una época de prosperidad. Fue entonces que bajo la bendición de la luz de de [[Eyedike#Thalyss|Thalyss]], [[Haani Al-Wiam]] fundó la ciudad de [[Siriso]].
 
 Debido a su posición geográfica alejada de los conflictos de la región, su habilidad comercial y su religión enfocada en el respeto y solidaridad, Al-Batha se convirtió en un reino donde aceptan a varias culturas refugiadas de la inestabilidad de la región.
 

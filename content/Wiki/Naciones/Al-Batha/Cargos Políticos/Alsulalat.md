@@ -36,7 +36,7 @@ Actualmente el líder de la casa [[Ramalaan Dini]], un hombre polémico, al cual
 
 ### Casa Alteadin
 
-La Casa Alteadin, fundada por un clan de enanos exiliados de [[Althril]] tras el inicio de la dictadura de la [[Dinastía Darkhart]], en el año 575 D.F.I. Liderados por [[Batrir Onyxgut]], el clan Alteadin se dedico a lo único que sabían hacer bien, extracción de minerales como hierro, plata, oro y joyas de la [[Cordillera Jabalia]].
+La Casa Alteadin, fundada por un clan de enanos exiliados de [[Althril]] tras el inicio de la dictadura de la [[Dinastía Darkhart]], en el año 575 D.F.I. Liderados por [[Batrir Onyxgut]], el clan Alteadin se dedico a lo único que sabían hacer bien, extracción de minerales como hierro, plata, oro y joyas de la [[Duthram#Duthram#1. Cordillera Jabalia|cordillera Jabalia]].
 
 Su ayuda y comprometimiento con la joven nación en su momento, les garantizó un lugar en las 5 casas del reino. Al ser enanos, el clan Alteadin es muy apasionado y dispuestos a ir más rápido a la acción. Son muy agresivos, pero con el paso del tiempo ellos poco a poco fueron adaptándose a las costumbres Bathianas.
 
