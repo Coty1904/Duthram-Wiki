@@ -56,4 +56,8 @@ Desde entonces los Maktaba se dedicaron a resguardar y enseñar magia en la Bibl
 
 ### Exilio Alteadin
 
-Similar a los Maktaba, el clan Alteadin es un clan de enanos mineros exiliados de [[Althril]] después de que la [[Dinastía Darkhart]] tomara ilegítimamente el poder de [[Althril]].  Exiliándolos de sus montañas y minas.
+Similar a los Maktaba, el clan Alteadin es un clan de enanos mineros exiliados de [[Althril]] después de que la [[Dinastía Darkhart]] tomara ilegítimamente el poder de [[Althril]].  Exiliándolos de sus montañas y minas alrededor del año 571 D.F.I. 
+
+Al oír acerca de la [[Cordillera Jabalia]] (la cual se rumoreaba que contaba con muchos recursos sin utilizar) y como había una nación emergente cerca de la zona. Decidieron exiliarse para [[Siriso]], con la esperanza que los rumores sean ciertos. Allí fueron recibidos con mucha gratitud por el reino de Al-Batha, debido a que estos se encontraban en plena expansión y necesitaban extraer los recursos minerales de las montañas.
+
+El Clan Alteadin, dirigidos por [[Batrir Onyxgut]], agradecidos por la oportunidad, ayudaron a la joven nación a explotar sus recursos naturales. Los 
