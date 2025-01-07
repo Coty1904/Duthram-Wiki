@@ -1,0 +1,13 @@
+# Ilyas Far’Shahn
+
+Ilyas Far’Shahn es el carismático y ferviente líder de los [[La Voz de Ainsijam#4. **Los Custodios del Amanecer**|Custodios del Amanecer]], una rama de [[La Voz de Ainsijam]] dedicada a la defensa de los templos sijanistas y la expansión de la fe a través de la persuasión y la presencia pública. Su voz imponente y su habilidad para conectar con las masas lo han convertido en un símbolo de la devoción sijanista.
+
+## Historia
+
+Nacido en 784 D.F.I. en el barrio más humilde de [[Shamal]], Ilyas Far’Shahn creció en medio de privaciones, pero también en una comunidad profundamente devota al Sijamismo. Desde pequeño, mostró un talento innato para oratoria y una pasión incandescente por las escrituras de [[Ainsijam]]. A los 15 años, comenzó a participar en los sermones locales, donde su energía y elocuencia pronto lo hicieron destacar.
+
+A los 20 años, Ilyas fue invitado a estudiar en el Gran Templo de Shamal, un honor reservado para los más prometedores en la fe. Allí, perfeccionó sus habilidades retóricas y desarrolló un entendimiento profundo de las escrituras. Sin embargo, también se vio influenciado por las ideas más radicales de algunos maestros, quienes lo introdujeron en los círculos internos de [[La Voz de Ainsijam]]. Su fervor y su capacidad para inspirar lo llevaron a ser elegido como Guardián del Amanecer, con la tarea de liderar a los Custodios.
+
+Desde que asumió el cargo, Ilyas Far’Shahn ha transformado a los Custodios del Amanecer en una fuerza visible y activa en Shamal y otras regiones. Bajo su liderazgo, la facción ha fortalecido la seguridad de los templos sijanistas, impidiendo ataques contra sus símbolos y reforzando la imagen de la fe entre los ciudadanos. Su enfoque no es solo protector, sino también expansivo: Ilyas organiza grandes reuniones públicas y caravanas religiosas que recorren el territorio, reclutando nuevos adeptos con su ardiente retórica y actos de caridad.
+
+Ilyas cree que la conversión es la forma más pura de consolidar la fe [[Sijamismo|sijanista]] y que es su deber divino llevar la luz de [[Ainsijam]] a cada rincón de [[Duthram]]. Aunque su enfoque es menos violento que el de otros líderes de la facción, su insistencia en la pureza religiosa lo ha llevado a enfrentarse a comunidades que se resisten a aceptar el [[Sijamismo]]. Sus detractores lo acusan de ser un manipulador que utiliza la fe para obtener poder y acabar con el gobierno de [[Al-Batha]], pero para sus seguidores, es un líder inspirado por la voluntad divina.

@@ -1,7 +1,7 @@
 # Duthram
 Perteneciente al mundo de [[Eyedike]], Duthram es una región llena de naciones, lugares y gente para explorar y conocer. 
 
-La fecha de inicio recomendada de esta campaña es durante el año 836.
+La fecha de inicio recomendada de esta campaña es durante el año 836 D.F.I.
 
 ## Geografía
 

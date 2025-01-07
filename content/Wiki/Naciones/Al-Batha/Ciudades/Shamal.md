@@ -32,6 +32,28 @@ Shamal es hogar de una mezcla variada de culturas debido a su rol comercial. Est
 
 En los últimos años, ha surgido un leve movimiento independentista en Shamal, donde algunos ciudadanos promueven la idea de mayor autonomía para la ciudad en temas de comercio, defensa y gobierno local.
 
+### Facciones principales
+
+Shamal es un hervidero de tensiones políticas y religiosas, donde tres facciones principales luchan por el control y el futuro de la ciudad.
+
+#### 1. Los Hijos del Viento Libre (Independentistas)
+
+- **Objetivo:** Luchar por la independencia de Shamal, liberándola tanto del dominio de Al-Batha como de la influencia sijanista.
+- **Historia:** Formados a partir de los antiguos clanes que gobernaban Shamal antes de su integración al reino, los Hijos del Viento Libre han resistido la dominación durante más de 250 años. Aunque debilitados, todavía cuentan con el apoyo de algunos ciudadanos y familias tradicionales que buscan preservar su identidad.
+- **Acciones recientes:** Movilizaciones secretas en las afueras de la ciudad y conspiraciones para debilitar al gobierno de Al-Batha.
+
+#### 2. La Mano de la Fe (Radicales Sijanistas)
+
+- **Objetivo:** Imponer el [[Sijamismo]] como única religión en Shamal, Al-Batha y todo el territorio de Duthram.
+- **Historia:** Una facción extremista del [[Sijamismo]], que interpreta las escrituras de forma literal y busca purificar la ciudad de aquellos que no sigan sus preceptos. Están liderados por clérigos fanáticos que ven a los independentistas como herejes y al gobierno de Al-Batha como corrupto.
+- **Acciones recientes:** Sermones incendiarios en el Templo del Amanecer y actos de violencia contra grupos minoritarios.
+
+#### 3. El Gobierno de Al-Batha (Al-Bathanos)
+
+- **Objetivo:** Mantener el control sobre Shamal y sofocar cualquier movimiento que  amenace la estabilidad del reino.
+- **Historia:** Gobernados directamente por el [[Aleahil]], el gobierno local se encuentra plagado de corrupción. Sin embargo, sigue siendo el poder más estable y organizado en Shamal. A menudo utiliza mercenarios para contener a los Hijos del Viento Libre y espías para monitorear a la Mano de la Fe.
+- **Acciones recientes:** Reformas administrativas para aparentar estabilidad, mientras reprimen a ambas facciones con fuerza cuando es necesario.
+
 ## Mapa
 
 [AGREGAR CUANDO SE TENGA.]

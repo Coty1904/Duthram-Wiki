@@ -34,58 +34,16 @@ El enfoque de expansión pasiva de la religión a manos de la casa Dini ah sido 
 
 Actualmente el líder de la casa [[Ramalaan Dini]], un hombre polémico, al cual se le juzga por su inacción en momentos de decisiones rápidas y determinadas.
 
-### # Mukhbiz
+## Obligaciones del Cargo
 
-Mukhbiz es una ciudad en la región este de Al-Batha, ubicada cerca de las colinas de [[Duthram#1. Colinas Aridias|Colinas Aridias]]. Fundada bajo el dominio del reino de Al-Batha, Mukhbiz es reconocida por su desarrollo urbano temprano y su fuerte enfoque en el comercio, manufactura y minería.
+Entre algunas de las obligaciones del cargo se encuentra.
 
-## Ciudades Principales
+1. Participación en la Elección Monárquica: Cada Casa Alsulalat debe enviar un representante para participar en la votación del nuevo Aleahil tras el fallecimiento del monarca.
 
-Mukhbiz, junto a [[Siriso]] y [[Balda]], se posiciona como una de las principales ciudades de Al-Batha, especialmente en el comercio de bienes manufacturados y operaciones mineras.
+2. Reclutamiento Militar: Proveer soldados y recursos para el ejército nacional durante tiempos de guerra o crisis.
 
-### Características de la ciudad
+3. Resolución de Conflictos Regionales: Mediar en disputas locales dentro de sus territorios y garantizar la paz.
 
-#### 1. Mercado Central
+4. Conservación Cultural: Promover y preservar las tradiciones y valores que fortalecen la identidad de Al-Batha.
 
-El mercado de Mukhbiz es uno de los más grandes y variados de la región, atrayendo comerciantes y mercaderes de diferentes partes del reino y más allá.
-
-#### 2. Murallas Antiguas
-
-Las murallas de Mukhbiz son imponentes, diseñadas para proteger sus activos comerciales, mineros y manufacturados, así como la seguridad de sus residentes.
-
-#### 3. Distritos Comerciales
-
-La ciudad está dividida en varios distritos especializados, como el de artesanía, el de textiles, el de productos manufacturados y el de minería, facilitando el comercio especializado y la extracción minera.
-
-#### 4. Manufactura Local
-
-Mukhbiz es famosa por su producción de artículos como textiles, herramientas, joyas y otros bienes que han alcanzado reconocimiento tanto a nivel regional como nacional.
-
-#### 5. Comunidad Comercial
-
-La mayoría de los residentes de Mukhbiz son comerciantes, artesanos y profesionales dedicados a mantener la economía de la ciudad en constante crecimiento.
-
-#### 6. Base Minera de la Casa Alteadin
-
-Mukhbiz es la base principal de operaciones mineras para la influyente Casa Alteadin, dedicada a la extracción de minerales preciosos y recursos estratégicos en las colinas circundantes.
-
-#### 7. Movimientos Sociales
-
-En los últimos años, Mukhbiz ha visto un incremento en movimientos sociales enfocados en la mejora de las condiciones laborales y la protección de los derechos comerciales.
-
-## Mapa
-
-[AGREGAR CUANDO SE TENGA.]
-
-## Religión
-
-Aunque el sijanismo es la principal religión, Mukhbiz también alberga varias pequeñas sectas y cultos relacionados con la prosperidad económica y la protección de los comerciantes.
-
-## Cultura
-
-Mukhbiz es un hervidero de actividad comercial y cultural, con festivales anuales dedicados al comercio y la manufactura. La ciudad fomenta una rica tradición de innovación en bienes manufacturados.
-
-## Historia
-
-Mukhbiz fue establecida en los primeros asentamientos alrededor del año 250 D.F.I., cuando pequeños grupos de mercaderes y artesanos comenzaron a reunirse en las colinas de Aridias para comerciar sus productos. A lo largo de los años, la ciudad ha experimentado diversos conflictos comerciales y expandido su territorio tanto a nivel regional como nacional.
-
-En los últimos años, Mukhbiz ha sido testigo de un leve movimiento independentista impulsado por comerciantes que buscan mayor autonomía en sus decisiones económicas y menores influencias del reino de Al-Batha en los asuntos locales.
+5. Sostenimiento Económico: Asegurar el desarrollo económico de sus regiones y contribuir al bienestar general del reino.

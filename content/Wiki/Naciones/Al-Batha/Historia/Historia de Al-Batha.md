@@ -10,7 +10,7 @@ Al establecer los primeros asentamientos da pie a que inicien los primeros Confl
 
 ## Conflictos Bathanos (311 - 350 D.F.I.)
 
-Fueron 39 años de guerras continuas entre las diferentes [[Ciudades de Al-Batha]]. Principalmente por conflictos comerciales, pero también por control dinástico entre varias facciones.
+Fueron 39 años de guerras continuas entre las diferentes Ciudades de Al-Batha. Principalmente por conflictos comerciales, pero también por control dinástico entre varias facciones.
 
 Finalizando alrededor del año 350 D.F.I. cuando un nuevo grupo exterior a la isla, los Rijal Albahr ("Hombres del Mar"). Parando las rutas comerciales y debilitando a todas las ciudades principales de la región.
 

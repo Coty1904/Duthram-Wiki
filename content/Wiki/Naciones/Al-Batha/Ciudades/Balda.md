@@ -49,3 +49,4 @@ Balda es una ciudad que combina sus raíces agrícolas con un creciente interés
 Balda tiene sus raíces en los primeros asentamientos alrededor del año 250 D.F.I., donde los primeros grupos migratorios se establecieron en la región para cultivar las tierras cercanas al río Nahr. A lo largo de los años, Balda ha enfrentado diversos desafíos, principalmente relacionados con la expansión territorial y la defensa de sus tierras agrícolas.
 
 En los últimos años, Balda ha comenzado a experimentar un leve movimiento cultural y comercial, impulsado por jóvenes emprendedores y artesanos que buscan elevar el perfil de la ciudad más allá de sus fronteras agrícolas tradicionales, pero todavía bajo la influencia del reino de Al-Batha.
+

@@ -13,7 +13,7 @@ Al-Batha cuenta con muchas ciudades, entre las principales podemos encontrar:
 4. [[Mukhbiz]], ciudad enfocada en convertir los granos de trigo de [[Balda]] en pan y cerveza.
 5. [[Shamal]], ciudad más poblada al norte de la [[Duthram#Duthram#1. Cordillera Jabalia|Cordillera Jabalia]].
 
-Hay varias [[Ciudades de Al-Batha|ciudades]] más, pero estas son las que tienen mayor relevancia.
+Hay varias ciudades más, pero estas son las que tienen mayor relevancia.
 
 ## Mapa
 
@@ -25,15 +25,15 @@ A continuación se muestra un mapa de Al-Batha mostrando:
 
 ## Gobierno
 
-El gobierno de Al-Batha, es una monarquía electa. Todos los [[Alsulalat]] tienen la obligación de enviar a un representante de su familia dinástica, para votar por el siguiente monarca después del fallecimiento del actual rey.
+El gobierno de Al-Batha, es una monarquía electa. Todos los [[Alsulalat]] tienen la obligación de enviar a un representante de su familia dinástica, para votar por el siguiente monarca después del fallecimiento del actual [[Aleahil]].
 
-El nuevo rey, una vez electo, debe de beber la sangre de su antecesor significando un reinado prosperó y legitimo.
+El nuevo [[Aleahil]], una vez electo, debe de beber la sangre de su antecesor significando un reinado prosperó y legitimo.
 
 ## Religión
 
-El pueblo Al-Bathano sigue la religión monoteísta, conocida como [[Sijamismo]] donde el dios [[Ainsijam]]. El [[Sijamismo]] predica el respeto y solidaridad entre todas las especies y naciones.
+El pueblo Al-Bathano sigue una religión monoteísta conocida como [[Sijamismo]], centrada en el culto a [[Ainsijam]], la deidad que simboliza la luz, la justicia y la unión entre los seres vivos. El [[Sijamismo]] predica el respeto, la solidaridad y la cooperación entre todas las especies y naciones, alentando a sus fieles a vivir una vida virtuosa guiada por los principios de la verdad y la justicia.
 
-No obstante los Sijanistas, muestran un cierto temor hacia los tieflings debido a su aspecto demoniaco. Los tieflings por lo mismo no son muy bien vistos por los Sijanistas.
+Sin embargo, los sijanistas mantienen un marcado recelo hacia los tieflings, cuyo aspecto demoníaco es visto como un reflejo de la corrupción y el caos asociados con [[Yathak]], el Portador de la Sombra. Esta desconfianza ha dificultado la integración de los tieflings en las comunidades sijanistas, aunque algunos han encontrado formas de coexistir pacíficamente bajo la luz de [[Ainsijam]].
 
 ## Cultura
 
