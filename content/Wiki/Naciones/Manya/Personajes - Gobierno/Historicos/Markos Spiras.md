@@ -1,6 +1,6 @@
 # Markos Spiras
 
-Fue el primer *[[Prosorinós Diktátoras]]* y unificador de [[Manya]]. Cuando en 646 D.F.I. junto a las cinco [[Manya#Ciudades-Estado|ciudades-estado]], para terminar las [[Guerras Manyas]] y hacer frente a la [[Invasión Anagarikulú]].
+Fue el primer *[[Prosorinós Diktátoras]]* y unificador de [[Manya]]. Cuando en 646 D.F.I. junto a las cinco [[Manya#Ciudades-Estado|ciudades-estado]], para terminar las [[Historia de Manya#Guerras Manyas (424 - 523 D.F.I.)|Guerras Manyas]] y hacer frente a la [[Invasión Anagarikulú]].
 
 ## Historia
 

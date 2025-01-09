@@ -39,7 +39,7 @@ Son exclusivamente humanos, y aunque no rechazan completamente no confían en ni
 
 ## Historia
 
-La fundación de Manya, sucedió en 646 D.F.I. (Después de la Fundación del Imperio), cuando el 13 de Kaelorn de ese año, cinco representantes de cada una de las ciudades se reunieron en [[Chorió]], tras las [[Guerras Manyas]]. Donde decidieron después casi 50 años de guerras continuas y al recibir una invasión por parte de [[Anagarikulú]] (Nación al norte de Manya) unirse para luchar contra la nueva amenaza (también conocida como la [[Invasión Anagarikulú]]).
+La fundación de Manya, sucedió en 546 D.F.I. (Después de la Fundación del Imperio), cuando el 13 de Kaelorn de ese año, cinco representantes de cada una de las ciudades se reunieron en [[Chorió]], tras las [[Historia de Manya#Guerras Manyas (424 - 523 D.F.I.)|Guerras Manyas]]. Donde decidieron después casi 100 años de guerras continuas y al recibir una invasión por parte de [[Anagarikulú]] (Nación al norte de Manya) unirse para luchar contra la nueva amenaza (también conocida como la [[Invasión Anagarikulú]]).
 
 El general [[Markos Spiras]], fue el encargado de reunió un consejo con todas las ciudades asistiendo a la reunión y creando la confederación democrática y convirtiéndose en el primer *[[Prosorinós Diktátoras]]*. 
 

@@ -20,8 +20,9 @@ Hay varias ciudades más, pero estas son las que tienen mayor relevancia.
 A continuación se muestra un mapa de Al-Batha mostrando:
  - Ciudades
  - Fortalezas
- - Sitios de Interés
-[INSERTAR MAPA CUANDO LO TENGAS, VAGO]
+ 
+![[Al-Batha1.3.png]]
+ 
 
 ## Gobierno
 
