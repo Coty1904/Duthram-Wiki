@@ -13,7 +13,7 @@ Las cuatro cordilleras principales de la región no solo definen la geografía d
 
 #### 1. Cordillera Jabalia
 
-Es la cordillera que divide en 2 la isla desértica de Al-Batha ubicada en el noreste de la región. Rica en minerales y joyas, mientras que sus altas cimas son lugar de peregrinaje para los buscadores de sabiduría y fuerza.
+Es la cordillera que divide en 2 la isla desértica de [[Al-Batha]] ubicada en el noreste de la región. Rica en minerales y joyas, mientras que sus altas cimas son lugar de peregrinaje para los buscadores de sabiduría y fuerza.
 
 #### 2. Cordillera Myrmidion
 
@@ -21,7 +21,7 @@ Es una cadena montañosa al que divide las naciones de [[Manya]] y [[Althril]], 
 
 #### 3. Cordillera Tenebris
 
-Situada al sur de la región, esta cordillera proyecta su sombra sobre las llanuras circundantes. Conocida por sus laderas escarpadas y nieblas perpetuas, es rica en antiguos yacimientos arqueológicos. Las leyendas afirman que en su interior yacen reliquias de un poder inimaginable.
+Situada al sur de la región, esta cordillera proyecta su sombra sobre las llanuras circundantes. Conocida por sus laderas escarpadas y nieblas perpetuas, es rica en antiguos yacimientos arqueológicos. Las leyendas afirman que en su interior yacen reliquias de un poder inimaginable. Sirve como frontera entre [[Manya]] y [[Aquila Imperii]].
 
 #### 4. Cordillera Eldarion
 
