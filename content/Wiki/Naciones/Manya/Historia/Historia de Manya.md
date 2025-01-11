@@ -8,7 +8,7 @@ La cooperación entre los reinos sirvió mucho para empezar a tener relaciones c
 
 # Guerras Manyas (424 - 523 D.F.I.)
 
-La estabilidad se acabó cuando en el 354 D.F.I. cuando tras un golpe de estado en [[Sídero]] (Mayor productora de minerales en la región), cortó las relaciones diplomáticas con el resto de reinos. Poco a poco, todas las naciones al ver el comercio cortado, poco a poco fueron consumidas por el caos y la desestabilidad económica, política y social. 
+La estabilidad se acabó cuando en el 424 D.F.I. cuando tras un golpe de estado en [[Sídero]] (Mayor productora de minerales en la región), cortó las relaciones diplomáticas con el resto de reinos. Poco a poco, todas las naciones al ver el comercio cortado, poco a poco fueron consumidas por el caos y la desestabilidad económica, política y social. 
 
 Este suceso dio origen a las Guerras Manyas, una serie de conflictos en donde las batallas, alianzas y traiciones abundaron, y donde ninguna [[Manya#Ciudades-Estado|Ciudades-Estado]] parecía poder sobreponerse al resto. Esto fue mermando los recursos y estabilidad de la región, dando pie a que otras potencias como [[Aquila Imperii]] y a los [[Anagarikulú]] para expandirse sin preocupación alguna cerca de la región.
 
