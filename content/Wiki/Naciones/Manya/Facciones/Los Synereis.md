@@ -1,4 +1,4 @@
-# Los Synereis (Facción de Investigadores Arcanos)
+# Los Synereis
 
 Los Synereis, una facción secreta de estudiosos arcanos, operan en las sombras de [[Érevna]] y más allá. En [[Manya]], donde la práctica de la magia ha sido declarada ilegal desde hace siglos, los Synereis actúan como una resistencia intelectual y arcana contra las restricciones impuestas por el régimen local. Convencidos de que la magia es la clave para trascender las limitaciones humanas, los Synereis desafían abiertamente las leyes y las estructuras sociales que buscan suprimir el potencial mágico del mundo.
 
