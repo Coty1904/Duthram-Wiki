@@ -1,6 +1,6 @@
-## La Naturaleza de Ainsijam
+# La Naturaleza de Ainsijam
 
-Ainsijam es percibido como omnisciente y compasivo, siempre vigilando a sus hijos desde las alturas del cielo eterno. En las escrituras sagradas, conocidas como los **Cantos de la Luz**, Ainsijam es descrito como "la llama que nunca se apaga, el sol que ilumina incluso la noche más oscura". Se dice que su luz purifica las almas, disipa el caos y fortalece a los justos en su lucha contra las fuerzas de la corrupción.
+Ainsijam es percibido como omnisciente y compasivo, siempre vigilando a sus hijos desde las alturas del cielo eterno. En las escrituras sagradas, conocidas como los Cantos de la Luz, Ainsijam es descrito como "la llama que nunca se apaga, el sol que ilumina incluso la noche más oscura". Se dice que su luz purifica las almas, disipa el caos y fortalece a los justos en su lucha contra las fuerzas de la corrupción.
 
 Su propósito es claro: unir a las naciones y a las especies bajo una única visión de paz y solidaridad, rechazando el odio y el conflicto. Ainsijam no exige adoración por temor, sino por amor y compromiso hacia un mundo mejor.
 

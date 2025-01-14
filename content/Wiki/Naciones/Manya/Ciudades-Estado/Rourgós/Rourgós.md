@@ -34,7 +34,7 @@ Un santuario dedicado a [[Pyranios]], el Dios del Fuego, donde los herreros ofre
 
 ## Religión
 
-El culto a [[Pyranios]] es el alma espiritual de Rourgós. Los herreros creen que el fuego no solo da forma al metal, sino también al espíritu del artesano. Los rituales incluyen ceremonias de encendido de forjas y ofrendas de pequeños objetos metálicos al fuego sagrado.
+El culto a [[Pyranios]] es el alma espiritual de Rourgós. Los herreros creen que el fuego no solo da forma al metal, sino también al espíritu del artesano. Los rituales incluyen ceremonias de encendido de forjas y ofrendas de pequeños objetos metálicos al fuego sagrado. Estos rituales se llaman [[Agonismo#En Manya|La Llamarada de Pyranios]].
 
 ## Cultura
 

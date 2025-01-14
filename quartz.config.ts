@@ -1,6 +1,8 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
+
+
 /**
  * Quartz 4.0 Configuration
  *
@@ -24,9 +26,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "MedievalSharp",
+        body: "MedievalSharp",
+        code: "MedievalSharp",
       },
       colors: {
         lightMode: {
