@@ -36,6 +36,6 @@ Los althrilianos lo ven como un padre protector, que con su luz guiará a su pue
 
 ## Herlion en el Panteón Agonista
 
-Dentro del panteón [[Agonismo|agonista]], Herlion ocupa el papel de guía espiritual y protector de la luz. Junto a [[Hernindar]], dios del inframundo, y [[Krasfort]], dios de la guerra, Herlion completa el trío fundamental que gobierna el equilibrio entre la vida, la muerte y el combate. Mientras que [[Hernindar]] protege el ciclo de las almas y [[Krasfort]] supervisa las batallas físicas, Herlion rige la luz del conocimiento y la claridad que guía a los justos.
+Dentro del panteón [[Agonismo#El Culto Althriliano|agonista en el culto Althriano]], Herlion ocupa el papel de guía espiritual y protector de la luz. Junto a [[Hernindar]], dios del inframundo, y [[Krasfort]], dios de la guerra, Herlion completa el trío fundamental que gobierna el equilibrio entre la vida, la muerte y el combate. Mientras que [[Hernindar]] protege el ciclo de las almas y [[Krasfort]] supervisa las batallas físicas, Herlion rige la luz del conocimiento y la claridad que guía a los justos.
 
 Herlion también está conectado a los elementos cósmicos, con la luz representando el principio de orden y crecimiento, siendo fundamental para el balance del universo. Al igual que el sol proporciona energía y vida a todo lo que existe en la tierra, Herlion es la fuente de la sabiduría y la inspiración para los althrilianos.

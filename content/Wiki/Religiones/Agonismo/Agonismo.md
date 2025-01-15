@@ -44,7 +44,6 @@ El protector de las almas y el equilibrio entre la vida y la muerte. [[Hernindar
 
 Patrón de los estrategas y guerreros, [[Krasfort]] simboliza la fuerza, el honor y la victoria. Su culto está profundamente integrado en la vida militar de Althril, con ceremonias previas a cada batalla.
 
-
 ## Otros Dioses del Panteón
 
 Aunque cada nación tiene sus dioses principales, el resto del panteón es venerado por ambos países, destacándose:
